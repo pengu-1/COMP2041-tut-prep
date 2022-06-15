@@ -1,1 +1,0 @@
-char *a = "hello\n", *b = "bye\n";
